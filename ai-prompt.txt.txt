@@ -1,0 +1,1 @@
+Fix the bugs in this HTML/CSS pricing card. Correct the CSS typo and HTML heading tag. Improve the layout and make it responsive. Refactor the code into a reusable JavaScript function `Card(title, price, features)`. Make the Start Trial button functional. Use only HTML, CSS, and vanilla JavaScript. Provide the complete working code.
